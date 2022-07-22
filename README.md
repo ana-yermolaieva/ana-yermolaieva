@@ -1,5 +1,3 @@
-### Hi there, I'm Anastasia 👋
-
 <h1 align="center">Hi there, I'm 
   <a href="https://www.linkedin.com/in/anastasiia-yermolaieva/" target="_blank">Anastasia</a> 
 </h1>
